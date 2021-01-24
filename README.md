@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">software developer reducing ignorance</h3>
+<h3 align="center">Software developer reducing ignorance</h3>
 
 - 🔭 I’m currently working on **indoor localization**
 
