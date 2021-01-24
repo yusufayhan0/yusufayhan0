@@ -12,7 +12,7 @@
 - 📫 How to reach me **yusufay.ay1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p style="text-align:center">
 <a href="https://linkedin.com/in/yusuf-ayhan-7b4674135/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yusuf-ayhan-7b4674135/" height="30" width="40" /></a>
 <a href="https://discord.gg/yusufay#8812" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="yusufay#8812" height="30" width="40" /></a>
 </p>
